@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Bu proje, 5–6 yaş arası okul öncesi çocuklara yönelik olarak geliştirilen “Sesli Şifre Kahramanları” adlı eğitici ve eğlenceli bir web oyunudur. Projenin temel amacı, çocukların erken yaşta:
 
-# Run and deploy your AI Studio app
+Problem çözme
 
-This contains everything you need to run your app locally.
+Hafıza geliştirme
 
-View your app in AI Studio: https://ai.studio/apps/drive/1oiXvc1S6HA0HTwokoa-l8gTDKjpVbq62
+Basit şifreleme mantığını kavrama
 
-## Run Locally
+Yaratıcılıklarını ifade edebilme
 
-**Prerequisites:**  Node.js
+Dinleme ve odaklanma becerilerini geliştirme
 
+gibi temel bilişsel yeteneklerini desteklemektir.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Oyun tamamen çocukların yaş özellikleri dikkate alınarak hazırlanmış, okuma yazma bilmeyen çocukların da rahatlıkla oynayabileceği şekilde tasarlanmıştır.
